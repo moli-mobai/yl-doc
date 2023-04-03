@@ -1,11 +1,11 @@
 export default {
-    base: '/yl-vue3-vitepress/',
-    title: 'Vue3-Vite-Cli 使用文档',
+    base: '/yl-doc/',
+    title: 'yl-doc 使用文档',
     description: '基于vite为基础搭建的风格脚手架,提供多种模板以便于更高效的解决业务需求！',
     lang: 'zh-CN',
     head: [['link', { rel: 'icon', type: 'image/svg+xml', href: 'favicon.ico' }]],
     themeConfig: {
-        siteTitle: 'Vue3-Vite-Cli 使用文档',
+        siteTitle: 'yl-doc 使用文档',
         repo: '',
         repoLabel: '',
         docsDir: 'docs',
@@ -15,7 +15,7 @@ export default {
         algolia: {
             appId: '',
             apiKey: '',
-            indexName: 'vue3-vite-cli'
+            indexName: 'yl-doc'
         },
         nav: [
             { text: '开始阅读', link: '/getting/why.html' },

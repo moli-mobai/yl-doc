@@ -13,7 +13,7 @@ git init  #执行这些git命令
 git add -A
 git commit -m 'deploy'
  
-git push -f git@github.com:moli-mobai/yl-doc.git master:gh-pages #提交到这个分支
+git push -f git@mb.github.com:moli-mobai/yl-doc.git master:gh-pages #提交到这个分支
  
 cd -
  

@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: Vue3-Vite-Cli
+  name: yl-doc
   text: 使用文档
   # tagline: 基于vite为基础搭建的风格脚手架,集成组织机构管理、岗位管理、人员管理、角色管理等基础功能！
   image:
       src: /favicon.ico
-      alt: Vue3-Vite-Cli 使用文档
+      alt: yl-doc 使用文档
   actions:
       - theme: brand
         text: 开始阅读
@@ -24,7 +24,7 @@ features:
     details: 可通过包管理器直接下载安装，并使用!
   - icon: 🛠️
     title: 欢迎参与
-    details: Vue3-Vite-Cli项目建设！
+    details: yl-doc项目建设！
 ---
 
 
