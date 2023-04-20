@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,Q as l}from"./chunks/framework.366ac521.js";const i=JSON.parse('{"title":"分配成员","description":"","frontmatter":{},"headers":[],"relativePath":"common/member.md"}'),p={name:"common/member.md"},o=l("",5),t=[o];function e(c,r,D,y,F,C){return a(),n("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};

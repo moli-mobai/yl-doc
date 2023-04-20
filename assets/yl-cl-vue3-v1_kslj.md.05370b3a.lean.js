@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.366ac521.js";const u=JSON.parse('{"title":"快速了解","description":"","frontmatter":{},"headers":[],"relativePath":"yl-cl-vue3-v1/kslj.md"}'),e={name:"yl-cl-vue3-v1/kslj.md"},p=l("",24),t=[p];function o(r,c,i,y,D,C){return n(),a("div",null,t)}const A=s(e,[["render",o]]);export{u as __pageData,A as default};

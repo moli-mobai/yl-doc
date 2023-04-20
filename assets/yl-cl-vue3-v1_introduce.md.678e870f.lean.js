@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,Q as p}from"./chunks/framework.366ac521.js";const F=JSON.parse('{"title":"项目介绍","description":"","frontmatter":{},"headers":[],"relativePath":"yl-cl-vue3-v1/introduce.md"}'),l={name:"yl-cl-vue3-v1/introduce.md"},o=p("",4),e=[o];function c(t,A,r,C,D,y){return a(),n("div",null,e)}const d=s(l,[["render",c]]);export{F as __pageData,d as default};

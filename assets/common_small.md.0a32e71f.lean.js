@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.366ac521.js";const A=JSON.parse('{"title":"快速了解","description":"","frontmatter":{},"headers":[],"relativePath":"common/small.md"}'),p={name:"common/small.md"},o=l("",16),e=[o];function t(c,r,y,D,F,i){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

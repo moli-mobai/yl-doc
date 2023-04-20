@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.366ac521.js";const A=JSON.parse('{"title":"封装介绍","description":"","frontmatter":{},"headers":[],"relativePath":"common/hs_dialog.md"}'),o={name:"common/hs_dialog.md"},p=l("",11),e=[p];function t(c,r,D,F,y,C){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};
